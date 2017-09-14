@@ -1,0 +1,38 @@
+body{
+    padding: 10px;
+}
+
+h1 {
+    margin-top: 25px;
+    text-align: center;
+    background-image: url(logo-playcode-preto-2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 span {
+    visibility: hidden;
+}
+
+div .cartao {
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+div .cartao h2 {
+    margin: 0;
+    text-decoration: none;
+    font-family: 'Roboto',sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #7d7d7d;
+    text-transform: uppercase;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+div .cartao img {
+    width: 100%;
+}
+
+
